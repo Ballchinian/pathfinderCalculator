@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(Get-ChildItem -Path \"f:\\\\Code\\\\Websites\\\\dndReact\\\\backend\" | Where-Object {$_.Name -ne \"node_modules\"} | Select-Object Name)"
-    ]
-  }
-}
